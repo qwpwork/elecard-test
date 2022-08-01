@@ -11,7 +11,7 @@
       <a class="mr-5 white--text" target="_blank" href="http://contest.elecard.ru/frontend/task">
         Task
       </a>
-      <a class="white--text" target="_blank" href="http://contest.elecard.ru/frontend/task">
+      <a class="white--text" target="_blank" href="https://github.com/qwpwork/elecard-test">
         Git
       </a>
     </v-col>
